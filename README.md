@@ -1,7 +1,7 @@
 # Skyjo Game Manager — Privacy Policy
 
-Page de politique de confidentialité pour l'application [Skyjo Game Manager](https://github.com/fwernert/SkyjoManager).
+Page de politique de confidentialité pour l'application Skyjo Game Manager.
 
-Accessible sur : https://fwernert.github.io/skyjomanager-privacy/
+Accessible sur : <https://fwernert.github.io/skyjomanager-privacy/>
 
 Disponible en Français, English et Deutsch.
